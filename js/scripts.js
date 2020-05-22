@@ -1,6 +1,6 @@
 jQuery(function() {
 
-$('.block').hide().fadeIn(1250);
+$('html').hide().fadeIn(2000);
 
 	$('#button').click(function(){
 
